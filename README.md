@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/salihhdemirr/salihhdemirr/blob/master/cello.jpg" alt="Cello Cover" width=350px height=465px/>
+<img align="right" src="https://github.com/salihhdemirr/salihhdemirr/blob/master/cello.jpg" alt="Cello Cover" width=350px height=475px>
 
 ### Hi, I'm Salih or as my friends call me -Mr.Sparrow  🏴‍☠️
 
