@@ -3,7 +3,7 @@
 ### Hi, I'm Salih or as my friends call me -Mr.Sparrow  🏴‍☠️
 
 I’m a Ruby newbie developer, cellist, professional jiu-jitsu fighter and yes, a huge cat lover🐱‍👓. I have worked in 3 countries so far as a Software/IT Support Engineer. I'm currently on the lookout for a Junior Developer/DevOps position or Software/IT Support Engineer position(Feel free to get in touch with me via my <a href="https://www.linkedin.com/in/ssalihddemir/">
-<img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
+<img border="0" alt="Linkedin" src="https://github.com/salihhdemirr/salihhdemirr/blob/master/linkedin.png" width="64" height="64">
 </a>). I have so many ideas and projects that will help the Earth to become a better place for us and other livings.
 
 - 📱    I’m currently working on a very secret project 💼
