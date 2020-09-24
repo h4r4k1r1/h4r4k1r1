@@ -7,6 +7,6 @@ I’m a Ruby newbie developer, cellist,professional jiu-jitsu fighter and yes, a
 - 📱  I’m currently working on a very secret project :D
 - 🤓 I’m currently learning Ruby and Ruby on Rails.
 - 💬  Ask me about OS trooubelshooting(Linux/Unix and Windows), HTML, CSS, JS, and of course MUSIC.
-- 📫  How to reach me: kaya@hey.com or LinkedIn [in/ssalihddemir/](https://www.linkedin.com/in/ssalihddemir/)
+- 📫  How to reach me: Via LinkedIn [in/ssalihddemir/](https://www.linkedin.com/in/ssalihddemir/)
 - 😄  Pronouns: he/him or ALIEN :D
 - 🚴🏽‍♀️  Fun fact: I love MUSIC, FINE ARTS and MARTIAL ARTS and I'm currently trying to learn KRAV MAGA online(I wish I could find a partner to practice at home :D
