@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/salihhdemirr/salihhdemirr/blob/master/cello.jpg" alt="Cello Cover" width=350px height=475px>
 
-### Hi, I'm Salih or as my friends call me -Mr.Sparrow  🏴‍☠️
+### Hi, I'm Salihand I'm very pleased to meet you 🏴‍☠️
 
 I’m a Ruby newbie developer, cellist, professional jiu-jitsu fighter and yes, a huge cat lover🐱‍👓. I have worked in 3 countries so far as a Software/IT Support Engineer. I have so many ideas and projects that will help the Earth to become a better place for us and other livings.
 
