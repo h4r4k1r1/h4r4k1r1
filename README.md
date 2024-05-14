@@ -1,4 +1,7 @@
-<img align="right" src="https://github.com/salihhdemirr/salihhdemirr/blob/master/cello.jpg" alt="Cello Cover" width=350px height=475px>
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/salihhdemirr/salihhdemirr/blob/master/cello.jpg" alt="Cello Cover" width="350px" height="475px">
+</div>
 
 ## Welcome to My GitHub!
 
@@ -25,3 +28,4 @@ In a world rife with challenges, I see cyber security, blockchain, and programmi
 
 If you share my passion for cyber security, blockchain, or programming, I'd love to collaborate, exchange ideas, or simply chat about the latest trends and developments. Feel free to explore my projects, reach out with questions or suggestions, or connect with me on my [LinkedIn](https://www.linkedin.com/in/sal1hd3m1r/). Together, let's harness the power of technology to build a brighter future!
 
+</div>
