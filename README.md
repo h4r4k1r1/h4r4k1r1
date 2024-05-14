@@ -23,5 +23,5 @@ In a world rife with challenges, I see cyber security, blockchain, and programmi
 
 ### Let's Connect!
 
-If you share my passion for cyber security, blockchain, or programming, I'd love to collaborate, exchange ideas, or simply chat about the latest trends and developments. Feel free to explore my projects, reach out with questions or suggestions, or connect with me on [social media platforms]. Together, let's harness the power of technology to build a brighter future!
+If you share my passion for cyber security, blockchain, or programming, I'd love to collaborate, exchange ideas, or simply chat about the latest trends and developments. Feel free to explore my projects, reach out with questions or suggestions, or connect with me on my [LinkedIn](https://www.linkedin.com/in/sal1hd3m1r/). Together, let's harness the power of technology to build a brighter future!
 
