@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hello there! I'm [Your Name], a passionate enthusiast in the realms of **cyber security**, **blockchain technology**, and **programming**. I believe in the power of technology to transform our world for the better, and these fields are where I channel my energy and expertise.
+Hello there! I'm Salih, a passionate enthusiast in the realms of **cyber security**, **blockchain technology**, and **programming**. I believe in the power of technology to transform our world for the better, and these fields are where I channel my energy and expertise.
 
 ### My Interests
 
